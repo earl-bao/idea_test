@@ -7,11 +7,12 @@
  */
 public class    test {
     public static void main(String[] args) {
+        int ad;
         System.out.println( "hello" );
         System.out.println( "hello2" );
         int a = num(5,1);
         System.out.println( a );
-
+        System.out.println(  ad = num(1,2) );
     }
 
     /**
